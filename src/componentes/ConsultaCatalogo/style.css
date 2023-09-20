@@ -1,0 +1,15 @@
+h2 {
+  color: #9400d3;
+}
+table {
+  margin: 0 auto;
+  padding: 10px;
+  border: 1px solid #caa5d9;
+}
+thead {
+  padding: 10px;
+  background-color: #caa5d9;
+}
+th {
+  padding: 10px;
+}
